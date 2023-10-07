@@ -4,4 +4,4 @@
 * A Unit Test source code using Junit Test framework
 * ...
 ### Connect me via tgnhatminh.forwork@gmail.com
-### Copyright &#111; 2023 wiramin
+### Copyright &#169 2023 wiramin
